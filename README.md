@@ -19,10 +19,10 @@ Linux : buka folder bin, lalu ketikan command di bawah ini
 Windows : buka folder bin, lalu double click cryptarithmetic.exe
 
 ## Author
-Nama &nbsp;&nbsp; : Widya Anugrah Putra
+Nama	: Widya Anugrah Putra
 
-NIM   &nbsp;&nbsp;&nbsp; : 13519105
+NIM		: 13519105
 
-Kelas &nbsp;&nbsp;&nbsp; : K-02
+Kelas	: K-02
 
-Jurusan &nbsp; : Teknik Informatika ITB
+Jurusan	: Teknik Informatika ITB
