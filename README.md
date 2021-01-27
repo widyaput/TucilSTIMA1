@@ -9,7 +9,14 @@ merepresentasikan huruf-huruf tersebut.
 
 Algoritma bruteforce yang digunakan adalah mencari semua permutasi yang mungkin untuk tiap huruf yang muncul. Sehingga program berjalan cukup lama, tetapi mampu menyelesaikan masalah yang ada.
 
-## Cara menggunakan program
+
+## Cara menggunakan program lewat command prompt
+Buka folder src lalu ketikan command ini di command prompt
+```bash
+python3 cryptarithmetic.py
+```
+
+## Cara menggunakan program lewat executable file
 Linux : buka folder bin, lalu ketikan command di bawah ini
 
 ```bash
@@ -18,11 +25,11 @@ Linux : buka folder bin, lalu ketikan command di bawah ini
 
 Windows : buka folder bin, lalu double click cryptarithmetic.exe
 
+Executable dari script python ini dibuat menggunakan library Pyinstaller. Tutorial [disini](https://medium.com/analytics-vidhya/how-to-create-executable-of-your-python-application-from-linux-windows-mac-bcbcdd4603d4), jadi jika ada yang ingin diubah dari script pythonnya jangan lupa untuk membuat executable file yang baru.
+
 ## Author
 Nama	: Widya Anugrah Putra
 
 NIM		: 13519105
 
 Kelas	: K-02
-
-Jurusan	: Teknik Informatika ITB
