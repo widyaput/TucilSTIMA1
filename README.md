@@ -25,7 +25,7 @@ Linux : buka folder bin, lalu ketikan command di bawah ini
 
 Windows : buka folder bin, lalu double click cryptarithmetic.exe
 
-Executable dari script python ini dibuat menggunakan library Pyinstaller. Tutorial [disini](https://medium.com/analytics-vidhya/how-to-create-executable-of-your-python-application-from-linux-windows-mac-bcbcdd4603d4), jadi jika ada yang ingin diubah dari script pythonnya jangan lupa untuk membuat executable file yang baru.
+Executable dari script python ini dibuat menggunakan library Pyinstaller. Tutorial [di sini](https://medium.com/analytics-vidhya/how-to-create-executable-of-your-python-application-from-linux-windows-mac-bcbcdd4603d4), jadi jika ada yang ingin diubah dari script pythonnya jangan lupa untuk membuat executable file yang baru.
 
 ## Author
 Nama	: Widya Anugrah Putra
