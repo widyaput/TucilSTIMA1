@@ -30,6 +30,6 @@ Executable dari script python ini dibuat menggunakan library Pyinstaller. Tutori
 ## Author
 Nama	: Widya Anugrah Putra
 
-NIM		: 13519105
+NIM	: 13519105
 
 Kelas	: K-02
