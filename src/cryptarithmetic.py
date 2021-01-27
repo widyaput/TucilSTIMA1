@@ -95,14 +95,9 @@ for i in range(len(dummy)):
 
 for i in range(len(dummy)):
     if (i == len(dummy)-3):
-        if (name == "../test/file.txt"):
-        	print(operand[i],end = '+\t')
-        else:
-        	print(operand[i],end = '+\t\t')
-        print(dummy[i],end ='+\n')
+        print((operand[i]+ "+").ljust(12) + dummy[i] + "+" )
     else:
-        print(operand[i],end = '\t\t')
-        print(dummy[i])
+        print(operand[i].ljust(12) + dummy[i])	
 
 end = time.time()
 print("jumlah tes yang dilakukan " + str(counter))
