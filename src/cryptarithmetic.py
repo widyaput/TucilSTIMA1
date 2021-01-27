@@ -34,8 +34,10 @@ def checkFirstLet(x):
 def getPosition(x):
     for i in range(len(letter)):
         if (x == letter[i]) : return i
-
-with open('../test/file.txt', 'r') as fd :
+print("Inputkan nama file uji di folder test : ", end="")
+name = input()
+name = "../test/" + name
+with open(name, 'r') as fd :
     operand = fd.read().splitlines()
 
 start = time.time()
@@ -93,7 +95,10 @@ for i in range(len(dummy)):
 
 for i in range(len(dummy)):
     if (i == len(dummy)-3):
-        print(operand[i],end = '+\t\t')
+        if (name == "../test/file.txt"):
+        	print(operand[i],end = '+\t')
+        else:
+        	print(operand[i],end = '+\t\t')
         print(dummy[i],end ='+\n')
     else:
         print(operand[i],end = '\t\t')

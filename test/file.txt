@@ -1,5 +1,4 @@
-FORTY 
- TEN 
- TEN+ 
- ----- 
- SIXTY
+TILES 
+ PUZZLES+ 
+  ----- 
+ PICTURE
